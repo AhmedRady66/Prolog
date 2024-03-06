@@ -6,7 +6,7 @@ Welcome to the Prolog Exercise repository! This repository contains a collection
 
 To get started with Prolog exercises, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/yourusername/prolog-exercises.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/AhmedRady66/Prolog`.
 1. Install a Prolog interpreter on your machine. Some popular options include SWI-Prolog, GNU Prolog, and Sicstus Prolog.
 1. Navigate to the cloned repository directory.
 1. Start solving exercises by opening Prolog files in your preferred text editor or Prolog interpreter.
