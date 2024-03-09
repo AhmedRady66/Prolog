@@ -1,5 +1,5 @@
 /**
- * Find The Bigger animal between the orovided animals.
+ * Find The Bigger animal between the provided animals.
  */
 
 bigger(elephant, horse).
