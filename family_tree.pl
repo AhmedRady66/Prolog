@@ -32,3 +32,9 @@ sister(X, Y):-
     female(X),
     female(Y),
     X\=Y.
+
+brother(X, Y):-
+    parent(W, X),
+    parent(W, Y),
+    male(X),
+    X\=Y.
